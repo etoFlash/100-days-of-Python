@@ -20,8 +20,10 @@
 
 Решил Bites of Py (мои решения доступны в https://github.com/etoFlash/bitesofpy):
 
+* [43. Force keyword arguments](https://codechalleng.es/bites/43/)
+
 * [55. Get the latest game releases from Steam's RSS feed](https://codechalleng.es/bites/55/)
 
 * [105. Slice and dice](https://codechalleng.es/bites/105/)
 
-/ 01:00
+/ 01:15
