@@ -20,6 +20,8 @@
 
 Решил Bites of Py (мои решения доступны в https://github.com/etoFlash/bitesofpy):
 
-* [55. Get the latest game releases from Steam's RSS feed ](https://codechalleng.es/bites/55/)
+* [55. Get the latest game releases from Steam's RSS feed](https://codechalleng.es/bites/55/)
 
-/ 00:45
+* [105. Slice and dice](https://codechalleng.es/bites/105/)
+
+/ 01:00
