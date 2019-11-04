@@ -24,6 +24,8 @@
 
 * [55. Get the latest game releases from Steam's RSS feed](https://codechalleng.es/bites/55/)
 
+* [75. Parse Unix cal to a weekday mapping](https://codechalleng.es/bites/75/) (решал без regex'ов, добавил в избранное, потом внимательнее изучу официальное решение)
+
 * [105. Slice and dice](https://codechalleng.es/bites/105/)
 
-/ 01:15
+/ 01:45
