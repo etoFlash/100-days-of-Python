@@ -15,3 +15,11 @@
 / 00:15
 
 Итого: 01:00
+
+## День 2 (04.11.2019)
+
+Решил Bites of Py (мои решения доступны в https://github.com/etoFlash/bitesofpy):
+
+* [55. Get the latest game releases from Steam's RSS feed ](https://codechalleng.es/bites/55/)
+
+/ 00:45
