@@ -2,7 +2,7 @@
 
 ## День 1 (03.11.2019)
 
-Решил задачи с CW:
+Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
 
 * [5 kyu Fibonacci Streaming](https://www.codewars.com/kata/55695bc4f75bbaea5100016b)
 
@@ -18,7 +18,7 @@
 
 ## День 2 (04.11.2019)
 
-Решил Bites of Py (мои решения доступны в https://github.com/etoFlash/bitesofpy):
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [43. Force keyword arguments](https://codechalleng.es/bites/43/)
 
