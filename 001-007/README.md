@@ -29,3 +29,9 @@
 * [105. Slice and dice](https://codechalleng.es/bites/105/)
 
 / 01:45
+
+Рефакторил и добавлял функцию скрапинга инфы с codechalleng.es в add_bites.py в https://github.com/etoFlash/bitesofpy.
+
+/ 01:05
+
+Итого: 02:50
