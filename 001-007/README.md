@@ -14,7 +14,7 @@
 
 / 00:15
 
-Итого: 01:00
+Всего: 01:00
 
 ## День 2 (04.11.2019)
 
@@ -34,14 +34,12 @@
 
 / 01:05
 
-Итого: 02:50
+Всего: 02:50
 
 ## День 3 (05.11.2019)
 
 [Прочел Create a Simple Web Scraper with BeautifulSoup4](https://pybit.es/simplewebscraper.html).
 
-Написал простой скрапер информации о количестве статей на https://pybit.es/pages/articles.html + тесты на pytest.
+Написал простой скрапер (pybites_articles_counter.py в данной папке) информации о количестве статей на https://pybit.es/pages/articles.html + тесты на pytest.
 
-/ 01:45
-
-Итого: 01:45
+Всего: 01:45
