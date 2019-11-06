@@ -38,7 +38,7 @@
 
 ## День 3 (05.11.2019)
 
-[Прочел Create a Simple Web Scraper with BeautifulSoup4](https://pybit.es/simplewebscraper.html).
+Прочел [Create a Simple Web Scraper with BeautifulSoup4](https://pybit.es/simplewebscraper.html).
 
 Написал простой скрапер (pybites_articles_counter.py в данной папке) информации о количестве статей на https://pybit.es/pages/articles.html + тесты на pytest.
 
