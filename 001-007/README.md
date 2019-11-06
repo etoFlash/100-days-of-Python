@@ -57,3 +57,9 @@
 * [225. Swap case PyBites characters](https://codechalleng.es/bites/225/)
 
 Всего: 01:15
+
+## День 5 (07.11.2019)
+
+Смотрел [Python Junior подкаст. Разбираем код мини-блога Flaskr](https://youtu.be/86BGCicvow8).
+
+Всего: 00:30
