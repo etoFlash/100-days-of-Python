@@ -43,3 +43,11 @@
 Написал простой скрапер (pybites_articles_counter.py в данной папке) информации о количестве статей на https://pybit.es/pages/articles.html + тесты на pytest.
 
 Всего: 01:45
+
+## День 4 (06.11.2019)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [225. Swap case PyBites characters](https://codechalleng.es/bites/225/)
+
+Всего: 00:15
