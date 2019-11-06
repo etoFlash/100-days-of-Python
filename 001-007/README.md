@@ -48,7 +48,7 @@
 
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
-* [49. Scrape Packt's html with BeautifulSoup](https://codechalleng.es/bites/49/) (официальное решение кажется более чистым, добавл в избранное, чтобы потом внимательнее изучить)
+* [49. Scrape Packt's html with BeautifulSoup](https://codechalleng.es/bites/49/) (официальное решение кажется более чистым, добавил в избранное, чтобы потом внимательнее изучить)
 
 * [225. Swap case PyBites characters](https://codechalleng.es/bites/225/)
 
