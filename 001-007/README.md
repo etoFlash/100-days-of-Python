@@ -62,4 +62,12 @@
 
 Смотрел [Python Junior подкаст. Разбираем код мини-блога Flaskr](https://youtu.be/86BGCicvow8).
 
-Всего: 00:30
+/ 00:30
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [3. Word Values](https://codechalleng.es/bites/3)
+
+/ 00:40
+
+Всего: 01:10
