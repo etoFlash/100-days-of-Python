@@ -70,4 +70,8 @@
 
 / 00:40
 
-Всего: 01:10
+В интерактивном режиме через BeautifulSoup подергал данные из https://codechalleng.es/bites/catalogue. Сохранил в корне в bs4_day5.log.py.
+
+/ 00:30
+
+Всего: 01:30
