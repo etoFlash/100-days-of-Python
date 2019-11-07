@@ -70,7 +70,7 @@
 
 / 00:40
 
-В интерактивном режиме через BeautifulSoup подергал данные из https://codechalleng.es/bites/catalogue. Сохранил в корне в bs4_day5.log.py.
+В интерактивном режиме через BeautifulSoup подергал данные из https://codechalleng.es/bites/catalogue. Часть лога - bs4_day5.log.py в данной папке.
 
 / 00:30
 
