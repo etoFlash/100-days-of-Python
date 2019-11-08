@@ -82,4 +82,4 @@
 
 Продолжаю дописывать функционал в add_bites.py в https://github.com/etoFlash/bitesofpy. Теперь новый PyBites добавляются в README.md.
 
-/ 01:10
+Всего 01:10
