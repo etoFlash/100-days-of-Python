@@ -80,6 +80,6 @@
 
 Добавил в test_pybites_articles_counter.py в этой папке тест на стандартные значения.
 
-Продолжаю дописывать функционал в add_bites.py в https://github.com/etoFlash/bitesofpy.
+Продолжаю дописывать функционал в add_bites.py в https://github.com/etoFlash/bitesofpy. Теперь новый PyBites добавляются в README.md.
 
-/ 01:00
+/ 01:10
