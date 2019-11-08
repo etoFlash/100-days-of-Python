@@ -75,3 +75,11 @@
 / 00:30
 
 Всего: 01:30
+
+## День 6 (08.11.2019)
+
+Добавил в test_pybites_articles_counter.py в этой папке тест на стандартные значения.
+
+Продолжаю дописывать функционал в add_bites.py в https://github.com/etoFlash/bitesofpy.
+
+/ 01:00
