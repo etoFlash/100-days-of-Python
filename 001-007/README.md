@@ -89,3 +89,11 @@
 Продолжаю дописывать функционал в add_bites.py в https://github.com/etoFlash/bitesofpy. Теперь после распаковки архива удаляются git.txt, README.md из новых папок и добавляется "# TODO: to beat" в новые py-файлы.
 
 / 00:45
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [2. Regex Fun](https://codechalleng.es/bites/2)
+
+/ 00:15
+
+Всего 01:00
