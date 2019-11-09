@@ -83,3 +83,9 @@
 Продолжаю дописывать функционал в add_bites.py в https://github.com/etoFlash/bitesofpy. Теперь новый PyBites добавляются в README.md.
 
 Всего 01:10
+
+## День 7 (09.11.2019)
+
+Продолжаю дописывать функционал в add_bites.py в https://github.com/etoFlash/bitesofpy. Теперь после распаковки архива удаляются git.txt, README.md из новых папок и добавляется "# TODO: to beat" в новые py-файлы.
+
+/ 00:45
