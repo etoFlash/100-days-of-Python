@@ -17,3 +17,7 @@ def test_count_articles():
 def test_count_articles_raise_404():
     with pytest.raises(requests.exceptions.HTTPError):
         count_articles(default_url[:-1])
+
+
+def test_count_articles_raise_default():
+    assert count_articles() == count_articles(address=default_url, local=False)
