@@ -11,5 +11,6 @@
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [4. Top 10 PyBites tags](https://codechalleng.es/bites/4/)
+* [6. PyBites Die Hard](https://codechalleng.es/bites/6/)
 
-Всего: 00:25
+Всего: 01:10
