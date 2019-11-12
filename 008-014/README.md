@@ -23,3 +23,9 @@
 * [Основы Python #7: пространство имен, область видимости](https://www.youtube.com/watch?v=mRjtcyEw168) + справка [builtins — Built-in objects](https://docs.python.org/3.8/library/builtins.html#module-builtins) + статья [Игнорирование правил областей видимости – LEGB правила](https://pylab.ru/ignorirovanie-pravil-oblastej-vidimosti-legb-pravila/)
 
 Всего: 01:15
+
+## День 11 (13.11.2019)
+
+Чтение "Python. Экспресс-курс".
+
+Всего: 00:40
