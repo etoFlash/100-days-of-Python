@@ -14,3 +14,11 @@
 * [6. PyBites Die Hard](https://codechalleng.es/bites/6/)
 
 Всего: 01:10
+
+## День 10 (12.11.2019)
+
+Посмотрел на канале Олега Молчанова:
+
+* [Основы Python #16: импорт модулей](https://www.youtube.com/watch?v=vqsalStEu38)
+
+Всего: 00:20
