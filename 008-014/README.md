@@ -20,5 +20,6 @@
 Посмотрел на канале Олега Молчанова:
 
 * [Основы Python #16: импорт модулей](https://www.youtube.com/watch?v=vqsalStEu38)
+* [Основы Python #7: пространство имен, область видимости](https://www.youtube.com/watch?v=mRjtcyEw168) + справка [builtins — Built-in objects](https://docs.python.org/3.8/library/builtins.html#module-builtins) + статья [Игнорирование правил областей видимости – LEGB правила](https://pylab.ru/ignorirovanie-pravil-oblastej-vidimosti-legb-pravila/)
 
-Всего: 00:20
+Всего: 01:15
