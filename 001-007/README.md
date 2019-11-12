@@ -101,3 +101,5 @@
 / 00:15
 
 Всего 01:00
+
+[Далее к 008-0014](https://github.com/etoFlash/100-days-of-Python/tree/master/008-014).
