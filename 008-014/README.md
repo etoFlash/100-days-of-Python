@@ -35,3 +35,11 @@
 / 01:50
 
 Всего: 02:30
+
+## День 12 (14.11.2019)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [9. Palindromes](https://codechalleng.es/bites/9/)
+
+Всего: 00:25
