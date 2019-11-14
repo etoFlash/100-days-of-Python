@@ -42,5 +42,6 @@
 
 * [9. Palindromes](https://codechalleng.es/bites/9/)
 * [215. Validate a license key](https://codechalleng.es/bites/215/)
+* [97. BeautifulSoup II - scrape US holidays](https://codechalleng.es/bites/97/)
 
-Всего: 00:35
+Всего: 01:10
