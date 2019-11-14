@@ -41,5 +41,6 @@
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [9. Palindromes](https://codechalleng.es/bites/9/)
+* [215. Validate a license key](https://codechalleng.es/bites/215/)
 
-Всего: 00:25
+Всего: 00:35
