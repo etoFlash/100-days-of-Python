@@ -45,3 +45,9 @@
 * [97. BeautifulSoup II - scrape US holidays](https://codechalleng.es/bites/97/)
 
 Всего: 01:10
+
+## День 13 (15.11.2019)
+
+Изучал Bottle.
+
+Всего: 01:40
