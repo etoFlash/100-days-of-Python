@@ -48,6 +48,8 @@
 
 ## День 13 (15.11.2019)
 
-Изучал Bottle.
+Изучал Bottle по:
+* [Легкий python веб-фреймворк: Bottle](https://habr.com/ru/post/221659/)
+* [Официальные доки Bottle: Python Web Framework](http://bottlepy.org/docs/0.12/)
 
 Всего: 01:40
