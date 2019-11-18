@@ -33,4 +33,10 @@ $ curl -X POST -F receiver_email=... -F message_subject=... http://host_name/sen
 
 * [238. Write tests for Fibonacci](https://codechalleng.es/bites/238/)
 
-Всего: 00:30
+/ 00:30
+
+Доработка add_bites.py в моем репозитории https://github.com/etoFlash/bitesofpy для поддержки тегов для Test Bites.
+
+/ 00:15
+
+Всего: 00:45
