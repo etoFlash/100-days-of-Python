@@ -26,3 +26,11 @@ $ curl -X POST -F receiver_email=... -F message_subject=... http://host_name/sen
 Код отправки почты взял полностью с realpython, который ранее уже использовал в [прошлые дни](https://github.com/etoFlash/100-days-of-Python/tree/master/008-014#%D0%B4%D0%B5%D0%BD%D1%8C-11-13112019).
 
 Всего: 01:45
+
+## День 16 (18.11.2019)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [238. Write tests for Fibonacci](https://codechalleng.es/bites/238/)
+
+Всего: 00:30
