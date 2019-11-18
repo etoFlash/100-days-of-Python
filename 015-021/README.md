@@ -32,11 +32,12 @@ $ curl -X POST -F receiver_email=... -F message_subject=... http://host_name/sen
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [238. Write tests for Fibonacci](https://codechalleng.es/bites/238/)
+* [239. Test FizzBuzz](https://codechalleng.es/bites/239/) (добавил в избранное, потом надо будет попробовать сделать с @pytest.mark.parametrize, а не как делал я)
 
-/ 00:30
+/ 00:50
 
 Доработка add_bites.py в моем репозитории https://github.com/etoFlash/bitesofpy для поддержки тегов для Test Bites.
 
 / 00:15
 
-Всего: 00:45
+Всего: 01:05
