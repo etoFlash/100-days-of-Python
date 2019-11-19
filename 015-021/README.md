@@ -42,4 +42,4 @@ $ curl -X POST -F receiver_email=... -F message_subject=... http://host_name/sen
 
 Всего: 01:05
 
-## 19.11.2019 пропустил ➡⏭️
+## 19.11.2019 пропустил ➡
