@@ -54,8 +54,8 @@ $ curl -X POST -F receiver_email=... -F message_subject=... http://host_name/sen
 
 ## День 18 (21.11.2019)
 
-Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+Решал Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
-* [240. Write tests for an Account class](https://codechalleng.es/bites/240/) - продолжаю делать. У меня локально проверка проходилась, но не на сайте.
+* [240. Write tests for an Account class](https://codechalleng.es/bites/240/) - продолжаю делать.
 
-Всего: 00:40
+Всего: 01:00
