@@ -59,3 +59,11 @@ $ curl -X POST -F receiver_email=... -F message_subject=... http://host_name/sen
 * [240. Write tests for an Account class](https://codechalleng.es/bites/240/) - продолжил и решил.
 
 Всего: 01:15
+
+## День 19 (22.11.2019)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [133. Convert an Amazon URL into an affiliation link](https://codechalleng.es/bites/133/)
+
+Всего: 01:15
