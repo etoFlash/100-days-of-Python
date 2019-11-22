@@ -66,5 +66,6 @@ $ curl -X POST -F receiver_email=... -F message_subject=... http://host_name/sen
 
 * [133. Convert an Amazon URL into an affiliation link](https://codechalleng.es/bites/133/)
 * [12. Write a user validation function](https://codechalleng.es/bites/12/)
+* [19. Write a simple property](https://codechalleng.es/bites/19/)
 
-Всего: 00:30
+Всего: 00:40
