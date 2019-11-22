@@ -65,5 +65,6 @@ $ curl -X POST -F receiver_email=... -F message_subject=... http://host_name/sen
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [133. Convert an Amazon URL into an affiliation link](https://codechalleng.es/bites/133/)
+* [12. Write a user validation function](https://codechalleng.es/bites/12/)
 
-Всего: 00:15
+Всего: 00:30
