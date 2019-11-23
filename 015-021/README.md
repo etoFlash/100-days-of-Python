@@ -69,3 +69,5 @@ $ curl -X POST -F receiver_email=... -F message_subject=... http://host_name/sen
 * [19. Write a simple property](https://codechalleng.es/bites/19/)
 
 Всего: 00:40
+
+## День 20 (23.11.2019)
