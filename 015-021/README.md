@@ -74,6 +74,7 @@ $ curl -X POST -F receiver_email=... -F message_subject=... http://host_name/sen
 
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
-* [7. Parsing dates from logs](https://codechalleng.es/bites/7/) - продолжил и решил.
+* [7. Parsing dates from logs](https://codechalleng.es/bites/7/)
+* [10. Practice exceptions](https://codechalleng.es/bites/10/)
 
-Всего: 00:25
+Всего: 00:45
