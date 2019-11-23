@@ -71,3 +71,9 @@ $ curl -X POST -F receiver_email=... -F message_subject=... http://host_name/sen
 Всего: 00:40
 
 ## День 20 (23.11.2019)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [7. Parsing dates from logs](https://codechalleng.es/bites/7/) - продолжил и решил.
+
+Всего: 00:25
