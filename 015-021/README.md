@@ -77,5 +77,6 @@ $ curl -X POST -F receiver_email=... -F message_subject=... http://host_name/sen
 * [7. Parsing dates from logs](https://codechalleng.es/bites/7/)
 * [10. Practice exceptions](https://codechalleng.es/bites/10/)
 * [130. Analyze some basic Car Data](https://codechalleng.es/bites/130/)
+* [38. Using ElementTree to parse XM](https://codechalleng.es/bites/38/)
 
-Всего: 01:10
+Всего: 01:55
