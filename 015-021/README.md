@@ -80,3 +80,12 @@ $ curl -X POST -F receiver_email=... -F message_subject=... http://host_name/sen
 * [38. Using ElementTree to parse XM](https://codechalleng.es/bites/38/)
 
 Всего: 01:55
+
+## День 21 (23.11.2019)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [45. Keep a queue of last n items](https://codechalleng.es/bites/45/)
+
+Всего: 00:30
+
