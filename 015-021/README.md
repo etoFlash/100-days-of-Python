@@ -86,6 +86,7 @@ $ curl -X POST -F receiver_email=... -F message_subject=... http://host_name/sen
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [45. Keep a queue of last n items](https://codechalleng.es/bites/45/)
+* [18. Find the most common word](https://codechalleng.es/bites/18/)
 
-Всего: 00:30
+Всего: 01:05
 
