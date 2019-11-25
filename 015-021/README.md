@@ -90,3 +90,4 @@ $ curl -X POST -F receiver_email=... -F message_subject=... http://host_name/sen
 
 Всего: 01:05
 
+[Далее к 022-028](https://github.com/etoFlash/100-days-of-Python/tree/master/022-028).
