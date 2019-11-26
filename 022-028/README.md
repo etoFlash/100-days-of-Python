@@ -7,3 +7,5 @@
 * [30. Movie data analysis](https://codechalleng.es/bites/30/)
 
 Всего: 01:00
+
+## 26.11.2019 пропустил ➡
