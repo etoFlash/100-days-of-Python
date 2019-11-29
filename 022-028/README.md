@@ -21,3 +21,5 @@
 Далее работал с API VK, методы: messages.send и groups.getLongPollServer.
 
 Всего: 01:10
+
+## День 25 (29.11.2019)
