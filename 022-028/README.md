@@ -45,3 +45,5 @@
 Продолжаю заниматься скрапером галерей на diva.js.
 
 Всего: 01:00
+
+[Далее к 029-035](https://github.com/etoFlash/100-days-of-Python/tree/master/029-035).
