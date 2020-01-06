@@ -19,3 +19,5 @@
 Список всех используемых модулей: json, time, os, subprocess, math, random, threading, glob, requests, bs4. По 
 
 Всего: 00:30
+
+## День 53 (06.01.2020)
