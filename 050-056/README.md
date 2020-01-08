@@ -20,4 +20,10 @@
 
 Всего: 00:30
 
-## День 53 (06.01.2020)
+## День 53 (08.01.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [26. Dictionary comprehensions are awesome](https://codechalleng.es/bites/26/)
+
+Всего: 00:15
