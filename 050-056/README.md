@@ -25,5 +25,6 @@
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [26. Dictionary comprehensions are awesome](https://codechalleng.es/bites/26/)
+* [13. Convert dict to namedtuple/json](https://codechalleng.es/bites/13/)
 
-Всего: 00:15
+Всего: 01:15
