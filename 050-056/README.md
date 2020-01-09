@@ -28,3 +28,9 @@
 * [13. Convert dict to namedtuple/json](https://codechalleng.es/bites/13/)
 
 Всего: 01:15
+
+## День 54 (09.01.2020)
+
+Чтение "Python. Экспресс-курс".
+
+Всего: 00:30
