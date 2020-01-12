@@ -45,4 +45,12 @@
 
 Чтение "Python. Экспресс-курс".
 
-Всего: 00:30
+/ 00:30
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [156. Make an index of story characters](https://codechalleng.es/bites/156/)
+
+/ 00:40
+
+Всего: 01:10
