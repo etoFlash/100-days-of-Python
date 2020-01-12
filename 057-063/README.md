@@ -4,4 +4,12 @@
 
 Чтение "Python. Экспресс-курс".
 
-Всего: 00:30
+/ 00:30
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [254. Global vs local variables](https://codechalleng.es/bites/254/)
+
+/ 00:15
+
+Всего: 00:45
