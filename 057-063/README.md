@@ -19,3 +19,7 @@
 Чтение "Python. Экспресс-курс".
 
 Всего: 00:30
+
+## День 59 (14.01.2020)
+
+TODO: парсер https://www.codewars.com/users/etoFlash/completed
