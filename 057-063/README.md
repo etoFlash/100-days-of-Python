@@ -20,6 +20,10 @@
 
 Всего: 00:30
 
-## День 59 (14.01.2020)
+## День 59 (15.01.2020)
 
-TODO: парсер https://www.codewars.com/users/etoFlash/completed
+Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
+
+* [5 kyu Blackjack Scorer](https://www.codewars.com/kata/534ffb35edb1241eda0015fe)
+
+Всего: 00:15
