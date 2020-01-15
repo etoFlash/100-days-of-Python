@@ -26,5 +26,6 @@
 
 * [5 kyu Blackjack Scorer](https://www.codewars.com/kata/534ffb35edb1241eda0015fe)
 * [7 kyu Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
+* [6 kyu Decode the Morse code ](https://www.codewars.com/kata/54b724efac3d5402db00065e)
 
-Всего: 00:20
+Всего: 00:30
