@@ -25,5 +25,6 @@
 Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
 
 * [5 kyu Blackjack Scorer](https://www.codewars.com/kata/534ffb35edb1241eda0015fe)
+* [7 kyu Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
 
-Всего: 00:15
+Всего: 00:20
