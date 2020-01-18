@@ -34,4 +34,12 @@
 
 Чтение "Python. Экспресс-курс".
 
-Всего: 00:30
+/ 00:30
+
+Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
+
+* [6 kyu Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)
+
+/ 00:05
+
+Всего: 00:35
