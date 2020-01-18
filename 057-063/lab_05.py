@@ -8,11 +8,11 @@ def mean(lst):
 def median(lst):
     sorted_list = sorted(lst)
     list_len = len(sorted_list)
-    median_index = list_len // 2
+    med_idx = list_len // 2
     if list_len % 2 == 1:
-        return sorted_list[median_index]
+        return sorted_list[med_idx]
     else:
-        return (sorted_list[median_index - 1] + sorted_list[median_index]) / 2
+        return sum(sorted_list[med_idx - 1:med_idx + 1]) / 2
 
 
 def count_unique(lst):
