@@ -54,7 +54,7 @@
 
 Чтение "Python. Экспресс-курс".
 
-/ 00:30
+Всего: 00:30
 
 ## День 63 (20.01.2020)
 
@@ -64,3 +64,11 @@
 * [6 kyu Pokemon Damage Calculator](https://www.codewars.com/kata/536e9a7973130a06eb000e9f/solutions/python)
 
 / 00:20
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [257. Extract users dict from a multiline string](https://codechalleng.es/bites/257/)
+
+/ 00:25
+
+Всего: 00:45
