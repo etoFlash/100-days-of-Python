@@ -70,6 +70,6 @@
 * [257. Extract users dict from a multiline string](https://codechalleng.es/bites/257/)
 * [14. Generate a table of n sequences](https://codechalleng.es/bites/14/)
 
-/ 00:45
+/ 00:55
 
-Всего: 01:05
+Всего: 01:15
