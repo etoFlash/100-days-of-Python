@@ -61,5 +61,6 @@
 Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
 
 * [6 kyu Binary to Text (ASCII) Conversion](https://www.codewars.com/kata/5583d268479559400d000064)
+* [6 kyu Pokemon Damage Calculator](https://www.codewars.com/kata/536e9a7973130a06eb000e9f/solutions/python)
 
-/ 00:05
+/ 00:20
