@@ -55,3 +55,15 @@
 Чтение "Python. Экспресс-курс".
 
 / 00:30
+
+## День 63 (20.01.2020)
+
+Чтение "Python. Экспресс-курс".
+
+/ 00:30
+
+Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
+
+* [6 kyu Binary to Text (ASCII) Conversion](https://www.codewars.com/kata/5583d268479559400d000064)
+
+/ 00:05
