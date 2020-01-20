@@ -73,4 +73,21 @@
 
 / 01:30
 
-Всего: 01:50
+Добавил в свой репозиторий https://github.com/etoFlash/bitesofpy ранее решенные, но не добавленные PyBites: 1, 5, 102, 103, 104, 106, 107, 108, скачав архив решенных заданий из аккаунта и сравнив наличие разницу в папках:
+```
+>>> import os
+>>> os.chdir("C:/learn")
+>>> import glob
+>>> rep_b = set()
+>>> for d in glob.glob("bitesofpy/*"):
+	rep_b.add(d.replace("bitesofpy\\", ""))
+>>> nrep_b = set()
+>>> for d in glob.glob("pybites_copy/*"):
+	nrep_b.add(d.replace("pybites_copy\\", ""))
+>>> sorted(map(int, nrep_b - rep_b))
+[1, 5, 102, 103, 104, 106, 107, 108]
+```
+
+/ 00:15
+
+Всего: 02:05
