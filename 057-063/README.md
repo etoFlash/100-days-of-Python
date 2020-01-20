@@ -71,6 +71,6 @@
 * [14. Generate a table of n sequences](https://codechalleng.es/bites/14/)
 * [11. Enrich a class with dunder methods](https://codechalleng.es/bites/11/)
 
-/ 01:20
+/ 01:30
 
-Всего: 01:40
+Всего: 01:50
