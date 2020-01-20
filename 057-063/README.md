@@ -68,7 +68,8 @@
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [257. Extract users dict from a multiline string](https://codechalleng.es/bites/257/)
+* [14. Generate a table of n sequences](https://codechalleng.es/bites/14/)
 
-/ 00:25
+/ 00:45
 
-Всего: 00:45
+Всего: 01:05
