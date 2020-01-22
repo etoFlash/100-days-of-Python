@@ -8,3 +8,5 @@
 * [27. Parse omdb movie json data](https://codechalleng.es/bites/27/)
 
 / 01:00
+
+## День 65 (22.01.2020)
