@@ -10,3 +10,9 @@
 / 01:00
 
 ## День 65 (23.01.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [259. Reverse complement](https://codechalleng.es/bites/259/)
+
+/ 00:55
