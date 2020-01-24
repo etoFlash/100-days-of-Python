@@ -16,3 +16,9 @@
 * [259. Reverse complement](https://codechalleng.es/bites/259/)
 
 / 00:55
+
+## День 66 (24.01.2020)
+
+Чтение "Python. Экспресс-курс".
+
+Всего: 00:30
