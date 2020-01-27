@@ -36,3 +36,9 @@
 Всего: 01:00
 
 ## День 69 (27.01.2020)
+
+Решил задание с PythonMorsels (мои решения доступны в моем репозитории https://github.com/etoFlash/PythonMorsels):
+
+* [001. Add](https://github.com/etoFlash/PythonMorsels/tree/master/add) - задание на суммирование матриц в виде списков, вложенных в списки
+
+/ 00:30
