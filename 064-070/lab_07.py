@@ -7,6 +7,7 @@ if __name__ == '__main__':
     with open(INPUT_FILE) as fin:
         words = fin.read().splitlines(keepends=False)
     counter_words = Counter(words)
+
     print("collections.Counter implementation:")
     print(f"5 most common words: {counter_words.most_common(5)}\n"
           f"5 rarest words: {counter_words.most_common()[-5:]}")
