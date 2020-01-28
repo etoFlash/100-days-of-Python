@@ -42,3 +42,5 @@
 * [001. Add](https://github.com/etoFlash/PythonMorsels/tree/master/add) - задание на суммирование матриц в виде списков, вложенных в списки
 
 / 00:30
+
+## День 70 (28.01.2020)
