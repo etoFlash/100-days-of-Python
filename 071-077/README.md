@@ -5,5 +5,6 @@
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [262. GC content](https://codechalleng.es/bites/262/)
+* [17. Form teams from a group of friends](https://codechalleng.es/bites/17/) ([описание itertools на русском](https://pythonworld.ru/moduli/modul-itertools.html))
 
-/ 00:20
+/ 00:50
