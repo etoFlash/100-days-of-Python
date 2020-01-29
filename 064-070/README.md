@@ -48,5 +48,6 @@
 Уроки по Django 2 от Олега Молчанова:
 
 * [0. Демка проекта](https://youtu.be/T0Xi8gWDrQ0)
+* [1. Установка Django и структура проекта](https://youtu.be/hIqcDEUBi5A) (варианты установки не под Линукс можно посмотреть [здесь](https://tutorial.djangogirls.org/ru/django_installation/))
 
-Всего: 00:10
+Всего: 00:30
