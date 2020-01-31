@@ -18,6 +18,6 @@
 
 ## День 73 (31.01.2020)
 
-Продолдаю делать [html_to_maff](https://github.com/etoFlash/html_to_maff).
+Продолжаю делать [html_to_maff](https://github.com/etoFlash/html_to_maff).
 
 Всего: 00:30
