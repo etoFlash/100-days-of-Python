@@ -9,3 +9,9 @@
 * [64. Fix a truncating zip function](https://codechalleng.es/bites/64/)
 
 Всего: 01:05
+
+## День 72 (30.01.2020)
+
+Начал делать [html_to_maff](https://github.com/etoFlash/html_to_maff) для конвертирования HTML-файлов в [MAFF-файлы](https://en.wikipedia.org/wiki/Mozilla_Archive_Format) в отдельном репозитории. Пока первая версия недописанная у меня в dev-ветке.
+
+Всего: 01:45
