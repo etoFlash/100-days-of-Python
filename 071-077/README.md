@@ -20,4 +20,12 @@
 
 Продолжаю делать [html_to_maff](https://github.com/etoFlash/html_to_maff).
 
-Всего: 00:30
+/ 00:30
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [21. Query a nested data structure](https://codechalleng.es/bites/21/) (TODO: переделать завтра кусок кода в get_all_matching_models на itertools.chain.from_iterable())
+
+/ 00:20
+
+Всего: 00:50
