@@ -31,3 +31,7 @@
 Всего: 00:50
 
 ## День 74 (03.02.2020)
+
+Продолжаю делать [html_to_maff](https://github.com/etoFlash/html_to_maff).
+
+Всего: 01:30
