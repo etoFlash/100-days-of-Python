@@ -35,3 +35,9 @@
 Продолжаю делать [html_to_maff](https://github.com/etoFlash/html_to_maff).
 
 Всего: 01:30
+
+## День 75 (05.02.2020)
+
+Продолжаю делать [html_to_maff](https://github.com/etoFlash/html_to_maff).
+
+Всего: 00:30
