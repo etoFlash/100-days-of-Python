@@ -47,3 +47,11 @@
 Продолжаю делать [html_to_maff](https://github.com/etoFlash/html_to_maff). Долелал первую концепт версию и смержил ее в master.
 
 Всего: 01:00
+
+## День 76 (07.02.2020)
+
+Решил задачу с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
+
+* [4 kyu Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292/)
+
+Всего: 00:55
