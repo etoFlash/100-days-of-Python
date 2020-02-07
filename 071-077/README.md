@@ -54,5 +54,6 @@
 
 * [4 kyu Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292/)
 * [7 kyu Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)
+* [6 kyu Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c)
 
-Всего: 01:00
+Всего: 01:05
