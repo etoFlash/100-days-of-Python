@@ -50,10 +50,11 @@
 
 ## День 76 (07.02.2020)
 
-Решил задачу с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
+Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
 
 * [4 kyu Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292/)
 * [7 kyu Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)
 * [6 kyu Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c)
+* [8 kyu Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)
 
 Всего: 01:05
