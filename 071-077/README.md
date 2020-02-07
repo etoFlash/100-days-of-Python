@@ -53,5 +53,6 @@
 Решил задачу с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
 
 * [4 kyu Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292/)
+* [7 kyu Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)
 
-Всего: 00:55
+Всего: 01:00
