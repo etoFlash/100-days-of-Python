@@ -58,3 +58,11 @@
 * [8 kyu Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)
 
 Всего: 01:05
+
+## День 77 (08.02.2020)
+
+Решил задачу с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
+
+* [6 kyu Basics 06: Reversing and Combining Text](https://www.codewars.com/kata/56b861671d36bb0aa8000819)
+
+Всего: 00:30
