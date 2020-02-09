@@ -65,4 +65,10 @@
 
 * [6 kyu Basics 06: Reversing and Combining Text](https://www.codewars.com/kata/56b861671d36bb0aa8000819)
 
-Всего: 00:30
+/ 00:30
+
+Чтение "Python. Экспресс-курс".
+
+/ 00:15
+
+Всего: 00:45
