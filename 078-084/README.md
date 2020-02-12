@@ -13,3 +13,9 @@
 Всего: 01:05
 
 ## День 80 (12.02.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [22. Write a decorator with argument](https://codechalleng.es/bites/22/) (надо будет посмотреть, нужен ли здесь functools.wraps)
+
+Всего: 01:00
