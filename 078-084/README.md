@@ -19,3 +19,11 @@
 * [22. Write a decorator with argument](https://codechalleng.es/bites/22/) (надо будет посмотреть, нужен ли здесь functools.wraps)
 
 Всего: 01:00
+
+## День 81 (13.02.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [195. Analyze NBA Data with sqlite3](https://codechalleng.es/bites/195/)
+
+Всего: 00:25
