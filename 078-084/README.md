@@ -27,3 +27,11 @@
 * [195. Analyze NBA Data with sqlite3](https://codechalleng.es/bites/195/)
 
 Всего: 00:25
+
+## День 82 (15.02.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [40. Write a binary search algorithm](https://codechalleng.es/bites/40/)
+
+Всего: 00:25
