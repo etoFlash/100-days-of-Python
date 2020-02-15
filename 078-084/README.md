@@ -33,5 +33,6 @@
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [40. Write a binary search algorithm](https://codechalleng.es/bites/40/)
+* [29. Martin's IQ test](https://codechalleng.es/bites/29/)
 
-Всего: 00:25
+Всего: 00:50
