@@ -35,5 +35,6 @@
 * [40. Write a binary search algorithm](https://codechalleng.es/bites/40/)
 * [29. Martin's IQ test](https://codechalleng.es/bites/29/)
 * [37. Rewrite a for loop using recursion](https://codechalleng.es/bites/37/)
+* [241. Write tests for list_to_decimal](https://codechalleng.es/bites/241/)
 
-Всего: 00:55
+Всего: 01:05
