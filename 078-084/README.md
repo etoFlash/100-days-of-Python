@@ -36,5 +36,6 @@
 * [29. Martin's IQ test](https://codechalleng.es/bites/29/)
 * [37. Rewrite a for loop using recursion](https://codechalleng.es/bites/37/)
 * [241. Write tests for list_to_decimal](https://codechalleng.es/bites/241/)
+* [125. Get the most recommended books](https://codechalleng.es/bites/125/)
 
-Всего: 01:05
+Всего: 01:25
