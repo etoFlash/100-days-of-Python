@@ -40,3 +40,9 @@
 * [79. Parse a csv file and create a bar chart](https://codechalleng.es/bites/79/)
 
 Всего: 01:55
+
+## День 83 (16.11.2019)
+
+Чтение "Python. Экспресс-курс".
+
+Всего: 00:15
