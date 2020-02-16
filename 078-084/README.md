@@ -37,5 +37,6 @@
 * [37. Rewrite a for loop using recursion](https://codechalleng.es/bites/37/)
 * [241. Write tests for list_to_decimal](https://codechalleng.es/bites/241/)
 * [125. Get the most recommended books](https://codechalleng.es/bites/125/)
+* [79. Parse a csv file and create a bar chart](https://codechalleng.es/bites/79/)
 
-Всего: 01:25
+Всего: 01:55
