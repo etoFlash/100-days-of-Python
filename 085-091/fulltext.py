@@ -23,6 +23,7 @@ def check_files_from_dir(path):
             continue
         elif link[0].endswith("/"):
             check_files_from_dir(path + link[0])
+            continue
         elif not link[0].lower().endswith(".pdf"):
             continue
 
