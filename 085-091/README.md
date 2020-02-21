@@ -16,3 +16,9 @@
 Всего: 01:10
 
 ## День 87 (21.02.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [69. Regex Fun - part II ](https://codechalleng.es/bites/69/)
+
+Всего: 00:40
