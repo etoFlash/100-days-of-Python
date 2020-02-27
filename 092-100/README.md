@@ -9,3 +9,11 @@
 * [193. Most upvoted StackOverflow Python questions](https://codechalleng.es/bites/193/)
 
 Всего: 01:05
+
+## День 93 (27.02.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [68. Remove punctuation characters from a string](https://codechalleng.es/bites/68/)
+
+Всего: 00:05
