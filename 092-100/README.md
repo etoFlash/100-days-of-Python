@@ -15,5 +15,6 @@
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [68. Remove punctuation characters from a string](https://codechalleng.es/bites/68/)
+* [205. Female speakers @ Pycon US ](https://codechalleng.es/bites/205/)
 
-Всего: 00:05
+Всего: 00:45
