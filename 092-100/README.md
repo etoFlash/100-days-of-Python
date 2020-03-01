@@ -20,3 +20,9 @@
 Всего: 00:45
 
 ## День 94 (28.02.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [100. Display the last part of a file (Unix tail)](https://codechalleng.es/bites/100/)
+
+Всего: 00:10
