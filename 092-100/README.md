@@ -24,5 +24,6 @@
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [100. Display the last part of a file (Unix tail)](https://codechalleng.es/bites/100/)
+* [48. Make a bar chart of new Safari books](https://codechalleng.es/bites/48/)
 
-Всего: 00:10
+Всего: 00:50
