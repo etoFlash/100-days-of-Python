@@ -27,3 +27,9 @@
 * [48. Make a bar chart of new Safari books](https://codechalleng.es/bites/48/)
 
 Всего: 00:50
+
+## День 95 (01.03.2020)
+
+Чтение "Python. Экспресс-курс".
+
+Всего: 00:40
