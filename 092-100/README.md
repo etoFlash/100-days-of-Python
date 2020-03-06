@@ -44,6 +44,7 @@
 
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
-* [47. Write a new password field validator ](https://codechalleng.es/bites/47/)
+* [47. Write a new password field validator](https://codechalleng.es/bites/47/)
+* [32. Don't let mutability fool you](https://codechalleng.es/bites/32/)
 
-Всего: 00:20
+Всего: 00:30
