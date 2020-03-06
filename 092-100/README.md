@@ -39,3 +39,11 @@
 Чтение "Python. Экспресс-курс".
 
 Всего: 00:30
+
+## День 97 (05.02.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [47. Write a new password field validator ](https://codechalleng.es/bites/47/)
+
+Всего: 00:20
