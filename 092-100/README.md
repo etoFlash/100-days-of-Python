@@ -49,3 +49,12 @@
 
 Всего: 00:30
 
+## День 98 (06.02.2020)
+
+Решал Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [47. Write a new password field validator](https://codechalleng.es/bites/47/) - не доделал пока, оставил на другой день
+
+Всего: 01:00
+
+## День 99 (07.02.2020)
