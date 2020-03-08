@@ -62,3 +62,6 @@
 Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
 
 * [6 kyu Consonant value](https://www.codewars.com/kata/59c633e7dcc4053512000073)
+* [6 kyu Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
+
+Всего: 00:15
