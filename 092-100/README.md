@@ -64,5 +64,6 @@
 * [6 kyu Consonant value](https://www.codewars.com/kata/59c633e7dcc4053512000073)
 * [6 kyu Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
 * [6 kyu Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3)
+* [6 kyu N-th Fibonacci](https://www.codewars.com/kata/522551eee9abb932420004a0)
 
-Всего: 00:25
+Всего: 00:40
