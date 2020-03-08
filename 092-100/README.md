@@ -53,7 +53,7 @@
 
 Решал Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
-* [47. Write a new password field validator](https://codechalleng.es/bites/47/) - не доделал пока, оставил на другой день
+* [139. Calculate a coding streak in days](https://codechalleng.es/bites/139/) - не доделал пока, оставил на другой день
 
 Всего: 01:00
 
@@ -67,3 +67,9 @@
 * [6 kyu N-th Fibonacci](https://www.codewars.com/kata/522551eee9abb932420004a0)
 
 Всего: 00:40
+
+## День 100 (08.02.2020)
+
+Решал Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [139. Calculate a coding streak in days](https://codechalleng.es/bites/139/) - доделал
