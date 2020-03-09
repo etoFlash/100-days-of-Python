@@ -74,5 +74,6 @@
 
 * [139. Calculate a coding streak in days](https://codechalleng.es/bites/139/) - доделал
 * [54. Nicer formatting of a poem or text](https://codechalleng.es/bites/54/)
+* [218. Create a sandwich decorator](https://codechalleng.es/bites/218/)
 
-Всего: 00:50
+Всего: 01:00
