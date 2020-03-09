@@ -73,3 +73,6 @@
 Решал Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [139. Calculate a coding streak in days](https://codechalleng.es/bites/139/) - доделал
+* [54. Nicer formatting of a poem or text](https://codechalleng.es/bites/54/)
+
+Всего: 00:50
