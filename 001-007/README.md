@@ -84,7 +84,7 @@
 
 Продолжаю дописывать функционал в add_bites.py в https://github.com/etoFlash/bitesofpy. Теперь новый PyBites добавляются в README.md.
 
-Всего 01:10
+Всего: 01:10
 
 ## День 7 (09.11.2019)
 
@@ -98,6 +98,6 @@
 
 / 00:15
 
-Всего 01:00
+Всего: 01:00
 
 [Далее к 008-0014](https://github.com/etoFlash/100-days-of-Python/tree/master/008-014).
