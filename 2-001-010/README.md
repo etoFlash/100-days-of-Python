@@ -7,3 +7,5 @@
 * [016. sum_timestamps](https://github.com/etoFlash/PythonMorsels/tree/master/sum_timestamps) - задание на суммирование списка таймштампов в виде текста и выводом результата в виде "ЧЧ:ММ:СС" или "ММ:СС".
 
 Всего: 01:40
+
+## День 2 (06.05.2020)
