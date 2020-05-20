@@ -10,13 +10,14 @@
 
 Продолжил "Data Science на Python 3 с нуля".
 
-/ 00:20
+/ 00:25
 
-Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed) по NumPy:
+Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed) по NumPy (первые два):
 
 * [? kyu Reorder Array 2](https://www.codewars.com/kata/5a48fab7bdb9b5b3690009b6)
 * [7 kyu Looper](https://www.codewars.com/kata/5a35f08b9e5f4923790010dc)
+* [5 kyu The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)
 
-/ 00:40
+/ 00:45
 
-Всего: 01:00
+Всего: 01:10
