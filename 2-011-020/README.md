@@ -33,3 +33,11 @@
 / 00:10
 
 Всего: 00:30
+
+# 14 (22.05.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [224. Get sentences from a text](https://codechalleng.es/bites/224/)
+
+Всего: 00:50
