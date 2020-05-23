@@ -40,4 +40,10 @@
 
 * [224. Get sentences from a text](https://codechalleng.es/bites/224/)
 
-Всего: 00:50
+/ 00:50
+
+Продолжил "Data Science на Python 3 с нуля". Добавил в папку DS: DataFrames.ipynb, Series.ipynb, exercise_22.ipynb, exercise_23.ipynb.
+
+/ 00:50
+
+Всего: 01:40
