@@ -54,8 +54,8 @@
 
 / 00:20
 
-Продолжил "Data Science на Python 3 с нуля".
+Продолжил "Data Science на Python 3 с нуля". Добавил в папку DS: DataFrames Selection and Indexing.ipynb, exercise_24.ipynb.
 
-/ 00:xx
+/ 00:40
 
-Всего: 00:20
+Всего: 01:00
