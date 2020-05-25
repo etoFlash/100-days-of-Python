@@ -81,4 +81,12 @@
 * [252. Let's play with Pandas Series](https://codechalleng.es/bites/252/)
 * [272. Find common words](https://codechalleng.es/bites/272/)
 
-Всего: 00:40
+/ 00:40
+
+Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed) по NumPy (первые два):
+
+* [4 kyu Next bigger number with the same digits](https://www.codewars.com/kata/55983863da40caa2c900004e)
+
+/ 01:15
+
+Всего: 01:55
