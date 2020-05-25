@@ -92,7 +92,7 @@ def do_load_all():
                 print(f"Loading failed. See 'log.txt' in dir '{row.work_dir}'.")
 
     with open(LOAD_LIST_FILE, "w", encoding="utf-8") as f_out:
-        f_out.writelines(";".join(row) for row in loads)
+        f_out.writelines(";".join(row) + "\n" for row in loads)
 
 
 if __name__ == '__main__':
