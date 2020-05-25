@@ -86,7 +86,8 @@
 Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed) по NumPy (первые два):
 
 * [4 kyu Next bigger number with the same digits](https://www.codewars.com/kata/55983863da40caa2c900004e)
+* [5 kyu Scraping: Get the Year a CodeWarrior Joined](https://www.codewars.com/kata/58ab2ed1acbab2eacc00010e)
 
-/ 01:15
+/ 01:25
 
-Всего: 01:55
+Всего: 02:05
