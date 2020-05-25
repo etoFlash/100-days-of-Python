@@ -100,4 +100,4 @@
 * [6 kyu Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
 * [6 kyu Custom FizzBuzz Array](https://www.codewars.com/kata/5355a811a93a501adf000ab7)
 
-Всего: 00:05
+Всего: 00:10
