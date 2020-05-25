@@ -73,3 +73,11 @@
 / 00:20
 
 Всего: 00:50
+
+# 17 (25.05.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [252. Let's play with Pandas Series](https://codechalleng.es/bites/252/)
+
+Всего: 00:30
