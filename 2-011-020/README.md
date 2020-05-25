@@ -87,7 +87,8 @@
 
 * [4 kyu Next bigger number with the same digits](https://www.codewars.com/kata/55983863da40caa2c900004e)
 * [5 kyu Scraping: Get the Year a CodeWarrior Joined](https://www.codewars.com/kata/58ab2ed1acbab2eacc00010e)
+* [5 kyu Play with two Strings](https://www.codewars.com/kata/56c30ad8585d9ab99b000c54)
 
-/ 01:25
+/ 01:40
 
-Всего: 02:05
+Всего: 02:20
