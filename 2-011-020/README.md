@@ -12,7 +12,7 @@
 
 / 00:25
 
-Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed) по NumPy (первые два):
+Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed) по NumPy (первые две):
 
 * [? kyu Reorder Array 2](https://www.codewars.com/kata/5a48fab7bdb9b5b3690009b6)
 * [7 kyu Looper](https://www.codewars.com/kata/5a35f08b9e5f4923790010dc)
@@ -83,7 +83,7 @@
 
 / 00:40
 
-Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed) по NumPy (первые два):
+Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
 
 * [4 kyu Next bigger number with the same digits](https://www.codewars.com/kata/55983863da40caa2c900004e)
 * [5 kyu Scraping: Get the Year a CodeWarrior Joined](https://www.codewars.com/kata/58ab2ed1acbab2eacc00010e)
@@ -92,3 +92,11 @@
 / 01:40
 
 Всего: 02:20
+
+# 18 (26.05.2020)
+
+Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
+
+* [6 kyu Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
+
+Всего: 00:05
