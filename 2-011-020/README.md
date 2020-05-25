@@ -79,5 +79,6 @@
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [252. Let's play with Pandas Series](https://codechalleng.es/bites/252/)
+* [272. Find common words](https://codechalleng.es/bites/272/)
 
-Всего: 00:30
+Всего: 00:40
