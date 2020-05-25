@@ -64,4 +64,12 @@
 
 Внес исправление ошибки в load_books.py.
 
-Всего: 00:30
+/ 00:30
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [251. Introducing Pandas Series](https://codechalleng.es/bites/251/)
+
+/ 00:20
+
+Всего: 00:20
