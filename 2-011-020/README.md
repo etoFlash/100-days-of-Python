@@ -115,4 +115,4 @@
 
 * [50. Make a little PyBites search engine (feedparser)](https://codechalleng.es/bites/50/)
 
-/ 01:15
+Всего: 01:15
