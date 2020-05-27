@@ -119,7 +119,7 @@
 
 Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
 
-* [6 kyu Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
+* [6 kyu Split and then add both sides of an array together](https://www.codewars.com/kata/5946a0a64a2c5b596500019a)
 
 / 00:05
 
