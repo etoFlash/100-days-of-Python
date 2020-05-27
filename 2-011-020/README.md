@@ -101,4 +101,10 @@
 * [6 kyu Custom FizzBuzz Array](https://www.codewars.com/kata/5355a811a93a501adf000ab7)
 * [6 kyu Encrypt this!](https://www.codewars.com/kata/5848565e273af816fb000449)
 
-Всего: 00:15
+/ 00:15
+
+Продолжил "Data Science на Python 3 с нуля".
+
+/ 00:30
+
+Всего: 00:30
