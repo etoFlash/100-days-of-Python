@@ -110,3 +110,9 @@
 Всего: 00:30
 
 # 19 (27.05.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [50. Make a little PyBites search engine (feedparser)](https://codechalleng.es/bites/50/)
+
+/ 01:15
