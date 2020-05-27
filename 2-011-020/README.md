@@ -115,4 +115,12 @@
 
 * [50. Make a little PyBites search engine (feedparser)](https://codechalleng.es/bites/50/)
 
-Всего: 01:15
+/ 01:15
+
+Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
+
+* [6 kyu Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
+
+/ 00:05
+
+Всего: 01:20
