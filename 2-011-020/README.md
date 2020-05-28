@@ -114,8 +114,9 @@
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [50. Make a little PyBites search engine (feedparser)](https://codechalleng.es/bites/50/)
+* [52. Create a movie quote API with Flask](https://codechalleng.es/bites/52/)
 
-/ 01:15
+/ 02:35
 
 Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
 
@@ -123,4 +124,4 @@
 
 / 00:05
 
-Всего: 01:20
+Всего: 02:40
