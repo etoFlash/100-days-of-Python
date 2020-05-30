@@ -127,3 +127,9 @@
 Всего: 02:40
 
 # 20 (29.05.2020)
+
+Решил задачи с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
+
+* [6 kyu Apply offset to subtitles](https://www.codewars.com/kata/5e454bf176551c002ee36486)
+
+Всего: 00:40
