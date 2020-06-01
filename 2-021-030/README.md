@@ -11,3 +11,11 @@
 Продолжил "Data Science на Python 3 с нуля". Добавил в папку DS: Input_Output.ipynb, Other Operations.ipynb, SampleData.xlsx, us-500.csv
 
 Всего: 00:45
+
+## 23 (01.06.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [140. PyBites First Pandas Bite](https://codechalleng.es/bites/140/)
+
+Всего: 00:25
