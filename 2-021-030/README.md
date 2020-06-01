@@ -7,3 +7,7 @@
 Всего: 01:10
 
 ## 22 (31.05.2020)
+
+Продолжил "Data Science на Python 3 с нуля". Добавил в папку DS: Input_Output.ipynb, Other Operations.ipynb, SampleData.xlsx, us-500.csv
+
+Всего: 00:45
