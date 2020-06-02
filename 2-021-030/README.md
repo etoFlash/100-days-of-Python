@@ -18,4 +18,7 @@
 
 * [140. PyBites First Pandas Bite](https://codechalleng.es/bites/140/)
 
-Всего: 00:25
+Также было потрачено время на задание, локально тесты проходятся, но не через сайт:
+* [145. Record Breakers](https://codechalleng.es/bites/145/)
+
+Всего: 03:15
