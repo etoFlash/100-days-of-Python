@@ -25,6 +25,6 @@
 
 ## 24 (07.06.2020)
 
-Продолжил "Data Science на Python 3 с нуля".
+Продолжил "Data Science на Python 3 с нуля". Добавил в папку DS: Video Game Sales Task.ipynb, vgsales.csv.
 
 Всего: 01:00
