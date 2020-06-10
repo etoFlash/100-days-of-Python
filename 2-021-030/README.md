@@ -40,3 +40,12 @@
 Продолжил "Data Science на Python 3 с нуля".
 
 Всего: 00:30
+
+
+## 27 (10.06.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [275. Get the most common email domains](https://codechalleng.es/bites/275/)
+
+Всего: 00:20
