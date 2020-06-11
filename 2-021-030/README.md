@@ -49,3 +49,11 @@
 * [275. Get the most common email domains](https://codechalleng.es/bites/275/)
 
 Всего: 00:20
+
+## 28 (11.06.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [226. Get top titles from news.python.sc ](https://codechalleng.es/bites/226/)
+
+Всего: 00:40
