@@ -57,3 +57,10 @@
 * [226. Get top titles from news.python.sc ](https://codechalleng.es/bites/226/)
 
 Всего: 00:40
+
+
+## 29 (12.06.2020)
+
+Чтение "Python. Экспресс-курс".
+
+Всего: 02:15
