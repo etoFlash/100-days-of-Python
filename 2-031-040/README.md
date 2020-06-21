@@ -22,4 +22,12 @@
 
 Начал проходить ["Мега-Учебник Flask"](https://habr.com/ru/post/346306/).
 
-Всего: 00:30
+/ 00:30
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [138. OOP fun at the Zoo](https://codechalleng.es/bites/138/) - надо будет отрефакторить
+
+/ 00:30
+
+Всего: 01:00
