@@ -51,3 +51,11 @@
 Всего: 00:30
 
 ## 38 (25.06.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [138. OOP fun at the Zoo](https://codechalleng.es/bites/138/)
+* [278. Major and minor numbers](https://codechalleng.es/bites/278/)
+
+Всего: 00:40
+
