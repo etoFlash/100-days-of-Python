@@ -55,3 +55,9 @@
 Всего: 00:30
 
 ## 69 (20.08.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [297. Rename keys](https://codechalleng.es/bites/297/)
+
+Всего: 00:20
