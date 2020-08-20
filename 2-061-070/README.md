@@ -59,5 +59,6 @@
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [297. Rename keys](https://codechalleng.es/bites/297/)
+* [279. Armstrong numbers](https://codechalleng.es/bites/279/)
 
-Всего: 00:20
+Всего: 00:25
