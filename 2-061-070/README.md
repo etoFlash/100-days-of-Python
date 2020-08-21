@@ -63,3 +63,11 @@
 * [295. Join lists](https://codechalleng.es/bites/295/)
 
 Всего: 00:30
+
+## 70 (21.08.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [293. N digit numbers](https://codechalleng.es/bites/293/)
+
+Всего: 00:15
