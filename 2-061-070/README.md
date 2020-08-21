@@ -60,5 +60,6 @@
 
 * [297. Rename keys](https://codechalleng.es/bites/297/)
 * [279. Armstrong numbers](https://codechalleng.es/bites/279/)
+* [295. Join lists](https://codechalleng.es/bites/295/)
 
-Всего: 00:25
+Всего: 00:30
