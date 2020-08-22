@@ -69,5 +69,6 @@
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [293. N digit numbers](https://codechalleng.es/bites/293/)
+* [165. Parse an /etc/passwd file output](https://codechalleng.es/bites/165/)
 
-Всего: 00:15
+Всего: 00:30
