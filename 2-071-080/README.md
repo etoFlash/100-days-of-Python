@@ -8,4 +8,4 @@
 * [116. List and filter files in a directory](https://codechalleng.es/bites/116/)
 * [161. Count the number of files and directories](https://codechalleng.es/bites/161/)
 
-Всего: 00:40
+Всего: 01:00
