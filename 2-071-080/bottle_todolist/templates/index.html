@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bottle todo-list</title>
+  <meta charset="UTF-8">
+  <!-- Bootstrap 4: -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="container">
+    <h2>Todo-list app</h2>
+    <button type="button" class="btn btn-primary mb-2 ml-3 btn-sm" id="addTask" onclick="$('#taskForm').show();$('#addTask').hide();">Add task</button>
+    <form class="form-inline" style="display:none;" id="taskForm" action="/" method="POST">
+       <div class="form-group input-group-sm mx-sm-3 mb-2">
+        <input type="text" class="form-control" id="taskInput" name="taskInput" placeholder="Task text">
+      </div>
+      <button type="submit" class="btn btn-success mb-2 btn-sm">Submit</button>
+      <button type="button" class="btn btn-danger mb-2 ml-2 btn-sm" onclick="$('#taskForm').hide();$('#addTask').show();">Cancel</button>
+    </form>
+
+    <p>Tasks:</p>
+    <ul>
+      <li>Task 1</li>
+      <li>Task 2</li>
+      <li>Task 3</li>
+    </ul>
+  </div>
+</body>
+</html>
