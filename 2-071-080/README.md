@@ -12,6 +12,6 @@
 
 ## 72 (24.08.2020)
 
-Начал делать небольшое todo-приложение на Bottle + aiosql в папке [bottle_todolist](/bottle_todolist), чтобы попробовать работу с aiosql. Когда доделаю, добавлю в папке также README.
+Начал делать небольшое todo-приложение на Bottle + aiosql в папке [bottle_todolist](./bottle_todolist), чтобы попробовать работу с aiosql. Когда доделаю, добавлю в папке также README.
 
 Всего: 02:00
