@@ -20,4 +20,4 @@
 
 Продолжил [bottle_todolist](./bottle_todolist).
 
-Всего: 01:45
+Всего: 02:30
