@@ -26,27 +26,9 @@
     % if not tasks:
       <p>Nothing</p>
     % else:
-      <div class="table-responsive-sm">
-      <table class="table">
-        % for task in tasks:
-        <tr id="{{ task[0] }}">
-          <td>
-            <input type="checkbox" onclick="alert('{{ task[0] }}')"
-            % if task[0] % 2 == 0:
-              checked
-            % end
-            >
-            <span>{{ task[1] }}</span>
-          </td>
-          <td>
-            <button type="button" class="btn btn-sm">↑</button>
-            <button type="button" class="btn btn-sm">↓</button>
-            <button type="button" class="btn btn-sm" onclick="delete_task(this)">x</button>
-          </td>
-        </tr>
-        % end
+      <table class="table" id="tableTasks">
+        % include('templates/tasks.html')
       </table>
-      </div>
     % end
   </div>
 </body>

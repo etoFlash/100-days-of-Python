@@ -24,13 +24,28 @@ def home():
 
 
 @post("/delete/<id_task:int>")
-def delete_task(id_task):
+def delete(id_task):
     order_num = queries.get_order_task(conn, id_task=id_task)[0]
 
     queries.delete_task(conn, id_task=id_task)
     queries.reorder_tasks(conn, order_num=order_num)
 
     conn.commit()
+
+
+@post("/move/<id_task:int>/<direction:re:(up|down)>")
+def move(id_task, direction):
+    order_num = queries.get_order_task(conn, id_task=id_task)[0]
+
+    if not order_num:
+        return
+
+    if direction == 'up' and order_num < queries.get_max_order(conn)[0]:
+        queries.switch_order_nums(conn, order_num1=order_num, order_num2=order_num + 1)
+    elif direction == 'down' and order_num > 1:
+        queries.switch_order_nums(conn, order_num1=order_num, order_num2=order_num - 1)
+
+    return template('templates/tasks.html', tasks=queries.get_tasks(conn))
 
 
 def add_task(task_text):

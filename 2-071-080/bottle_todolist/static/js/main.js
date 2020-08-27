@@ -7,3 +7,11 @@ function delete_task(obj) {
       success: $("tr#" + id_task).remove()
     });
 }
+
+function move_task(obj, direction) {
+    var id_task = $(obj).parent().parent().attr("id");
+
+    $.post("/move/" + id_task + "/" + direction, function(data) {
+      $("#tableTasks").html(data);
+    });
+}
