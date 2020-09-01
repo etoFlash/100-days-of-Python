@@ -47,3 +47,5 @@
 * [33. Transpose a data structure](https://codechalleng.es/bites/33/)
 
 Всего: 00:45
+
+## 78 (01.09.2020)
