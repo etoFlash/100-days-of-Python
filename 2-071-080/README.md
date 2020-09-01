@@ -39,3 +39,11 @@
 Продолжил "Django - Быстрый старт".
 
 Всего: 01:15
+
+## 77 (31.08.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [33. Transpose a data structure](https://codechalleng.es/bites/33/)
+
+Всего: 00:45
