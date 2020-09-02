@@ -6,8 +6,8 @@ from bottle import get, post, request, template, run, static_file, response
 import aiosql
 
 
-conn = sqlite3.connect("todo.db")
-queries = aiosql.from_path("tasks.sql", "sqlite3")
+CONN = sqlite3.connect("todo.db")
+QUERIES = aiosql.from_path("tasks.sql", "sqlite3")
 
 
 @get("/static/js/<filename>")
@@ -34,7 +34,7 @@ def delete(id_task):
 def move(id_task, direction):
     move_task(direction, id_task)
 
-    return template('templates/tasks.html', tasks=queries.get_tasks(conn))
+    return template('templates/tasks.html', tasks=get_tasks())
 
 
 @get("/download")
@@ -42,40 +42,40 @@ def download():
     return download_tasks()
 
 
-def get_tasks():
-    return queries.get_tasks(conn)
+def get_tasks(conn=CONN):
+    return QUERIES.get_tasks(conn)
 
 
-def delete_task(id_task):
-    order_num = queries.get_order_task(conn, id_task=id_task)[0]
-    queries.delete_task(conn, id_task=id_task)
-    queries.reorder_tasks(conn, order_num=order_num)
-
-    conn.commit()
-
-
-def add_task(task_text):
-    order_num = queries.get_max_order(conn)[0] + 1
-    queries.add_task(conn, task_text=task_text, order_num=order_num)
+def delete_task(id_task, conn=CONN):
+    order_num = QUERIES.get_order_task(conn, id_task=id_task)[0]
+    QUERIES.delete_task(conn, id_task=id_task)
+    QUERIES.reorder_tasks(conn, order_num=order_num)
 
     conn.commit()
 
 
-def move_task(direction, id_task):
-    order_num = queries.get_order_task(conn, id_task=id_task)[0]
+def add_task(task_text, conn=CONN):
+    order_num = QUERIES.get_max_order(conn)[0] + 1
+    QUERIES.add_task(conn, task_text=task_text, order_num=order_num)
+
+    conn.commit()
+
+
+def move_task(direction, id_task, conn=CONN):
+    order_num = QUERIES.get_order_task(conn, id_task=id_task)[0]
     assert order_num, "Order number not found"
 
-    if direction == 'up' and order_num < queries.get_max_order(conn)[0]:
-        queries.switch_order_nums(conn, order_num1=order_num, order_num2=order_num + 1)
+    if direction == 'up' and order_num < QUERIES.get_max_order(conn)[0]:
+        QUERIES.switch_order_nums(conn, order_num1=order_num, order_num2=order_num + 1)
     elif direction == 'down' and order_num > 1:
-        queries.switch_order_nums(conn, order_num1=order_num, order_num2=order_num - 1)
+        QUERIES.switch_order_nums(conn, order_num1=order_num, order_num2=order_num - 1)
 
 
-def download_tasks():
+def download_tasks(conn=CONN):
     stream = StringIO()
     writer = csv.writer(stream)
     writer.writerow(["id_task", "task_text", "order_num"])
-    writer.writerows(queries.get_tasks(conn))
+    writer.writerows(get_tasks(conn=conn))
 
     response.set_header("Content-type", "text/csv")
     response.set_header("Content-Disposition", "attachment; filename=tasks.csv")

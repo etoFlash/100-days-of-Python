@@ -53,3 +53,9 @@
 Продолжил [bottle_todolist](./bottle_todolist). Отрефакторил Python-код. Добавил функцию скачивания всех тасков в CSV (по примеру)[https://gist.github.com/kurozumi/22d3eefdea3e8cf30113017e2d343d2e].
 
 Всего: 01:00
+
+## 79 (02.09.2020)
+
+Продолжил [bottle_todolist](./bottle_todolist). Внес правки в код для их поддержки и добавил юнит-тесты на pytest .
+
+Всего: 01:15
