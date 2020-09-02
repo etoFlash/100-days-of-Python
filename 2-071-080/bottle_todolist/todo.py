@@ -19,7 +19,7 @@ def static_js(filename):
 @post("/")
 def index():
     if request.method == "POST":
-        task_text = request.forms.get('taskInput')
+        task_text = request.forms.taskInput
         add_task(task_text)
 
     return template('templates/index.html', tasks=get_tasks())
