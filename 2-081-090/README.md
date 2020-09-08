@@ -9,4 +9,12 @@
 
 / todo: посмотреть разбор и решения Trey's solutions, а затем провести рефакторинг при необходимости
 
-Всего: 00:35
+/ 00:35
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [299. Base converter](https://codechalleng.es/bites/299/)
+
+/ 00:25
+
+Всего: 01:00
