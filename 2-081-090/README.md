@@ -41,4 +41,12 @@
 
 Продолжил "Data Science на Python 3 с нуля". Добавил в папку DS: Matplotlib.ipynb и Matplotlib Task.ipynb.
 
-Всего: 00:40
+/ 00:40
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [190. Parse income distribution from Latin America XML](https://codechalleng.es/bites/190/)
+
+/ 00:40
+
+Всего: 01:20
