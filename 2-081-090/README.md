@@ -38,3 +38,7 @@
 Всего: 01:15
 
 ## 84 (12.09.2020)
+
+Продолжил "Data Science на Python 3 с нуля". Добавил в папку DS: Matplotlib.ipynb и Matplotlib Task.ipynb.
+
+Всего: 00:40
