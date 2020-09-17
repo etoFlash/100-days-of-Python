@@ -53,4 +53,10 @@
 
 ## 85 (14.09.2020)
 
-## 86 (16.09.2020)
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [301. Exchange Rates](https://codechalleng.es/bites/301/) - делал, но не доделал
+
+Всего: 01:15
+
+## 86 (17.09.2020)
