@@ -67,4 +67,6 @@
 * [301. Exchange Rates](https://codechalleng.es/bites/301/) - доделал
 * [283. Like there's no tomorrow?](https://codechalleng.es/bites/283/)
 
-Всего: 00:25
+Всего: 00:30
+
+## 87 (18.09.2020)
