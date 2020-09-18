@@ -61,7 +61,6 @@
 
 ## 86 (17.09.2020)
 
-
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [301. Exchange Rates](https://codechalleng.es/bites/301/) - доделал
@@ -70,3 +69,9 @@
 Всего: 00:30
 
 ## 87 (18.09.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [94. Parse PyCon talk data from YouTube](https://codechalleng.es/bites/94/)
+
+Всего: 00:50
