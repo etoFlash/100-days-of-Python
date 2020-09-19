@@ -73,5 +73,6 @@
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [94. Parse PyCon talk data from YouTube](https://codechalleng.es/bites/94/)
+* [56. Add a command line interface to our BMI calculator](https://codechalleng.es/bites/56/)
 
-Всего: 00:50
+Всего: 01:10
