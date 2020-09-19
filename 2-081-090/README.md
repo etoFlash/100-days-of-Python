@@ -76,3 +76,11 @@
 * [56. Add a command line interface to our BMI calculator](https://codechalleng.es/bites/56/)
 
 Всего: 01:10
+
+## 88 (19.09.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [57. Create a simple calculator that receives command line arguments](https://codechalleng.es/bites/57/)
+
+Всего: 00:40
