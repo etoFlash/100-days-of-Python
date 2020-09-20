@@ -83,4 +83,10 @@
 
 * [57. Create a simple calculator that receives command line arguments](https://codechalleng.es/bites/57/)
 
-Всего: 00:40
+/ 00:40
+
+Продолжил "Data Science на Python 3 с нуля".
+
+/ 00:30
+
+Всего: 01:10
