@@ -92,3 +92,9 @@
 Всего: 01:10
 
 ## 89 (22.09.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [25. No promo twice, keep state in a class](https://codechalleng.es/bites/25/)
+
+Всего: 00:40
