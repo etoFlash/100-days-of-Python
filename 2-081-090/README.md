@@ -96,5 +96,6 @@
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [25. No promo twice, keep state in a class](https://codechalleng.es/bites/25/)
+* [71. Keep state in a class + make its instance callable](https://codechalleng.es/bites/71/)
 
-Всего: 00:40
+Всего: 00:45
