@@ -36,7 +36,8 @@
 Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [122. Check if two words are anagrams](https://codechalleng.es/bites/122/)
+* [150. Turn messy CSV into JSON ](https://codechalleng.es/bites/150/)
 
-/ 00:15
+/ 00:45
 
-Всего: 01:25
+Всего: 01:55
