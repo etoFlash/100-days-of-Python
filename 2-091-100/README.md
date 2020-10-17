@@ -31,4 +31,12 @@
 * [5 kyu Dots and Boxes Validator](https://www.codewars.com/kata/5d81d8571c6411001a40ba66)
 * [6 kyu Remove the parentheses](https://www.codewars.com/kata/5f7c38eb54307c002a2b8cc8)
 
-Всего: 01:10
+/ 01:10
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [122. Check if two words are anagrams](https://codechalleng.es/bites/122/)
+
+/ 00:15
+
+Всего: 01:25
