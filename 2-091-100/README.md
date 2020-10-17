@@ -29,5 +29,6 @@
 Решил задачу с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
 
 * [5 kyu Dots and Boxes Validator](https://www.codewars.com/kata/5d81d8571c6411001a40ba66)
+* [6 kyu Remove the parentheses](https://www.codewars.com/kata/5f7c38eb54307c002a2b8cc8)
 
-Всего: 01:00
+Всего: 01:10
