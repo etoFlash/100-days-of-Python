@@ -25,3 +25,9 @@
 Всего: 00:45
 
 ## 93 (16.10.2020)
+
+Решил задачу с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
+
+* [5 kyu Dots and Boxes Validator](https://www.codewars.com/kata/5d81d8571c6411001a40ba66)
+
+Всего: 01:00
