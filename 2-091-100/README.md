@@ -40,4 +40,8 @@
 
 / 00:45
 
-Всего: 01:55
+Посмотрел [Лёгкое логирование в Python с Loguru](https://www.youtube.com/watch?v=3ndEeGDVqD4).
+
+/ 00:10
+
+Всего: 02:05
