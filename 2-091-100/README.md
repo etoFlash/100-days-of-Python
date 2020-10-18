@@ -45,3 +45,11 @@
 / 00:10
 
 Всего: 02:05
+
+## 94 (18.10.2020)
+
+Решил задачу с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
+
+* [7 kyu Sum of a sequence](https://www.codewars.com/kata/586f6741c66d18c22800010a)
+
+Всего: 00:10
