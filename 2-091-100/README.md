@@ -51,5 +51,6 @@
 Решил задачу с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
 
 * [7 kyu Sum of a sequence](https://www.codewars.com/kata/586f6741c66d18c22800010a)
+* [6 kyu Loneliest character](https://www.codewars.com/kata/5f885fa9f130ea00207c7dc8)
 
-Всего: 00:10
+Всего: 00:40
