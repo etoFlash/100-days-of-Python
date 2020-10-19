@@ -56,3 +56,9 @@
 Всего: 00:40
 
 ## 95 (19.10.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [179. Strip comments from Python code ](https://codechalleng.es/bites/179/) - сделал, но нужно отрефакторить
+
+Всего: 01:30
