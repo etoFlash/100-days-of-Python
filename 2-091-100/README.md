@@ -54,3 +54,5 @@
 * [6 kyu Loneliest character](https://www.codewars.com/kata/5f885fa9f130ea00207c7dc8)
 
 Всего: 00:40
+
+## 95 (19.10.2020)
