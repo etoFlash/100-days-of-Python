@@ -62,3 +62,11 @@
 * [179. Strip comments from Python code ](https://codechalleng.es/bites/179/) - сделал, но нужно отрефакторить
 
 Всего: 01:30
+
+## 96 (20.10.2020)
+
+Решил задачу с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
+
+* [4 kyu Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
+
+Всего: 00:50
