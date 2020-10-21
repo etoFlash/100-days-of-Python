@@ -70,3 +70,11 @@
 * [4 kyu Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
 
 Всего: 00:50
+
+## 96 (21.10.2020)
+
+Решил задачу с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
+
+* [6 kyu Simple Fun #160: Cut The Ropes](https://www.codewars.com/kata/58ad388555bf4c80e800001e)
+
+Всего: 00:05
