@@ -78,4 +78,12 @@
 * [6 kyu Simple Fun #160: Cut The Ropes](https://www.codewars.com/kata/58ad388555bf4c80e800001e)
 * [beta Find longest sequence of an element in array](https://www.codewars.com/kata/5f8dd79aa962b600335f7577)
 
-Всего: 00:10
+/ 00:10
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [208. Find the number pairs summing up N](https://codechalleng.es/bites/208/)
+
+/ 00:10
+
+Всего: 00:20
