@@ -94,4 +94,4 @@
 
 * [155. Split a string by spaces or quoted text](https://codechalleng.es/bites/155/) - можно сделать через shlex.split
 
-/ 00:30
+Всего: 00:30
