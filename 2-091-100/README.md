@@ -89,3 +89,9 @@
 Всего: 00:20
 
 ## 98 (27.10.2020)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
+
+* [155. Split a string by spaces or quoted text](https://codechalleng.es/bites/155/) - можно сделать через shlex.split
+
+/ 00:30
