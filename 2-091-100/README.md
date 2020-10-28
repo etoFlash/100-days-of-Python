@@ -95,3 +95,5 @@
 * [155. Split a string by spaces or quoted text](https://codechalleng.es/bites/155/) - можно сделать через shlex.split
 
 Всего: 00:30
+
+## 99 (28.10.2020)
