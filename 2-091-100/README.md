@@ -97,3 +97,9 @@
 Всего: 00:30
 
 ## 99 (05.11.2020)
+
+Решил задачу с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
+
+* [5 kyu Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
+
+Всего: 00:05
