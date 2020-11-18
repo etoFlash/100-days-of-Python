@@ -101,5 +101,6 @@
 Решил задачу с CW (статус решенности доступен по ссылке https://www.codewars.com/users/etoFlash/completed):
 
 * [5 kyu Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
+* [7 kyu String doubles](https://www.codewars.com/kata/5a145ab08ba9148dd6000094)
 
-Всего: 00:05
+Всего: 00:35
