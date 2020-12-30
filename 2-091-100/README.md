@@ -105,4 +105,8 @@
 
 Всего: 00:35
 
-## 100 (19.12.2020)
+## 100 (30.12.2020)
+
+* [314. Print names to columns](https://codechalleng.es/bites/314/)
+
+Всего: 00:15
