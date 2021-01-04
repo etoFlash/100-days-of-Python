@@ -105,7 +105,9 @@
 
 Всего: 00:35
 
-## 100 (30.12.2020)
+## 100 (03.01.2021)
+
+Решил Bites of Py (мои решения доступны в моем репозитории https://github.com/etoFlash/bitesofpy):
 
 * [314. Print names to columns](https://codechalleng.es/bites/314/)
 * [322. Reading progress](https://codechalleng.es/bites/322/)
