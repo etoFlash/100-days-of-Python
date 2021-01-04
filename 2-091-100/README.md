@@ -108,5 +108,6 @@
 ## 100 (30.12.2020)
 
 * [314. Print names to columns](https://codechalleng.es/bites/314/)
+* [322. Reading progress](https://codechalleng.es/bites/322/)
 
-Всего: 00:15
+Всего: 00:30
