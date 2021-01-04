@@ -109,5 +109,6 @@
 
 * [314. Print names to columns](https://codechalleng.es/bites/314/)
 * [322. Reading progress](https://codechalleng.es/bites/322/)
+* [317. Pickling objects](https://codechalleng.es/bites/317/)
 
-Всего: 00:30
+Всего: 00:40
